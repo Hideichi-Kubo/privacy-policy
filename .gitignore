@@ -1,0 +1,25 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Gradle (if Android Studio opens this repo accidentally as a Gradle project)
+.gradle/
+build/
+local.properties
+
+# Node/Jekyll (for GitHub Pages or future styling)
+_site/
+.cache/
+node_modules/
+
+# Backup / temp files
+*.bak
+*.tmp
