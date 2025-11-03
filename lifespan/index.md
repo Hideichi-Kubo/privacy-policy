@@ -69,7 +69,7 @@ The updated version will take effect as of the “Effective Date” shown below.
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
 **Hideichi Kubo**  
-Email: *[your contact email here]*
+Email: *hideichi.apps@gmail.com*
 
 ---
 
