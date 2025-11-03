@@ -1,0 +1,58 @@
+# ===============================
+#  GitHub Pages Configuration
+#  for LifeSpan Privacy Policy
+# ===============================
+
+# --- Site Information ---
+title: Privacy Policies
+description: Official privacy policies for our apps.
+url: "https://hideichi-kubo.github.io"   # GitHub Pages のユーザーサイトURL
+baseurl: "/privacy-policy"               # プロジェクトページ名を指定（リポジトリ名と一致）
+
+# --- Markdown & Theme Settings ---
+markdown: kramdown
+theme: minima                             # 標準の軽量テーマ（GitHub公式サポート）
+
+# --- Plugins (GitHub Pages Officially Supported) ---
+plugins:
+  - jekyll-seo-tag                        # SEOメタタグ自動生成
+  - jekyll-sitemap                        # sitemap.xml 自動生成
+
+# --- Default Front Matter Values ---
+# lifespan/ 以下の全ページに共通設定を適用
+defaults:
+  - scope:
+      path: "lifespan"
+    values:
+      layout: page
+      app: "LifeSpan"
+
+# --- Permalink Style ---
+# URLを /privacy-policy/lifespan/ja/ のように整形 (.htmlなし)
+permalink: pretty
+
+# --- Exclude Files (optional) ---
+# Pages公開に不要なファイルを除外したい場合に使用
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - scripts/
+  - .gitignore
+
+# --- Additional Notes ---
+# 1. 公開URL:
+#    英語:   https://hideichi-kubo.github.io/privacy-policy/lifespan/
+#    日本語: https://hideichi-kubo.github.io/privacy-policy/lifespan/ja/
+#    韓国語: https://hideichi-kubo.github.io/privacy-policy/lifespan/ko/
+#    簡体字: https://hideichi-kubo.github.io/privacy-policy/lifespan/zh/
+#    繁体字: https://hideichi-kubo.github.io/privacy-policy/lifespan/zh-TW/
+#
+# 2. GitHub Pages 設定:
+#    Settings → Pages → Source → “Deploy from a branch”
+#    Branch: main / Folder: /(root)
+#
+# 3. Front Matter 付きMarkdownを置くだけで自動的にHTML化されます。
+#    index.md がデフォルト（英語）として表示されます。
