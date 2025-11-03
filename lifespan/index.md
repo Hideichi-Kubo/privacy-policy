@@ -1,16 +1,16 @@
 ---
 title: Privacy Policy (LifeSpan)
 lang: en
-permalink: /privacy-policy/lifespan/
+permalink: /lifespan/
 ---
 
 <nav style="margin: 1rem 0;">
   <strong>Language:</strong>
-  <a href="{{ '/privacy-policy/lifespan/' | relative_url }}">English</a> |
-  <a href="{{ '/privacy-policy/lifespan/ja/' | relative_url }}">日本語</a> |
-  <a href="{{ '/privacy-policy/lifespan/ko/' | relative_url }}">한국어</a> |
-  <a href="{{ '/privacy-policy/lifespan/zh/' | relative_url }}">简体中文</a> |
-  <a href="{{ '/privacy-policy/lifespan/zh-TW/' | relative_url }}">繁體中文</a>
+  <a href="{{ '/lifespan/' | relative_url }}">English</a> |
+  <a href="{{ '/lifespan/ja/' | relative_url }}">日本語</a> |
+  <a href="{{ '/lifespan/ko/' | relative_url }}">한국어</a> |
+  <a href="{{ '/lifespan/zh/' | relative_url }}">简体中文</a> |
+  <a href="{{ '/lifespan/zh-TW/' | relative_url }}">繁體中文</a>
 </nav>
 
 # Privacy Policy (LifeSpan)

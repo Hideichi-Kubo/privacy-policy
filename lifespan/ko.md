@@ -1,16 +1,16 @@
 ---
 title: 개인정보 처리방침 (LifeSpan)
 lang: ko
-permalink: /privacy-policy/lifespan/ko/
+permalink: /lifespan/ko/
 ---
 
 <nav style="margin: 1rem 0;">
   <strong>Language:</strong>
-  <a href="{{ '/privacy-policy/lifespan/' | relative_url }}">English</a> |
-  <a href="{{ '/privacy-policy/lifespan/ja/' | relative_url }}">日本語</a> |
-  <a href="{{ '/privacy-policy/lifespan/ko/' | relative_url }}">한국어</a> |
-  <a href="{{ '/privacy-policy/lifespan/zh/' | relative_url }}">简体中文</a> |
-  <a href="{{ '/privacy-policy/lifespan/zh-TW/' | relative_url }}">繁體中文</a>
+  <a href="{{ '/lifespan/' | relative_url }}">English</a> |
+  <a href="{{ '/lifespan/ja/' | relative_url }}">日本語</a> |
+  <a href="{{ '/lifespan/ko/' | relative_url }}">한국어</a> |
+  <a href="{{ '/lifespan/zh/' | relative_url }}">简体中文</a> |
+  <a href="{{ '/lifespan/zh-TW/' | relative_url }}">繁體中文</a>
 </nav>
 
 # 개인정보 처리방침 (LifeSpan)
@@ -60,9 +60,9 @@ Firebase를 통해 수집되는 모든 데이터는 **개인을 식별할 수 �
 
 ## 6. 개인정보 처리방침의 변경
 
-당사는 필요에 따라 본 방침을 수정할 수 있습니다.  
-중대한 변경이 있을 경우, 본 앱 내 또는 Google Play 스토어 페이지를 통해 공지합니다.  
-변경된 방침은 위에 명시된 “시행일”로부터 효력이 발생합니다.
+당사는 필요에 따라 본 방침을 수정할 수 있습니다.
+중대한 변경이 있을 경우, 본 앱 내 또는 Google Play 스토어 페이지를 통해 공지합니다.
+변경된 방침은 아래에 명시된 "시행일"로부터 효력이 발생합니다.
 
 ## 7. 문의처
 

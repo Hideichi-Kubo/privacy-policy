@@ -1,16 +1,16 @@
 ---
 title: 隐私政策（LifeSpan）
 lang: zh-CN
-permalink: /privacy-policy/lifespan/zh/
+permalink: /lifespan/zh/
 ---
 
 <nav style="margin: 1rem 0;">
   <strong>Language:</strong>
-  <a href="{{ '/privacy-policy/lifespan/' | relative_url }}">English</a> |
-  <a href="{{ '/privacy-policy/lifespan/ja/' | relative_url }}">日本語</a> |
-  <a href="{{ '/privacy-policy/lifespan/ko/' | relative_url }}">한국어</a> |
-  <a href="{{ '/privacy-policy/lifespan/zh/' | relative_url }}">简体中文</a> |
-  <a href="{{ '/privacy-policy/lifespan/zh-TW/' | relative_url }}">繁體中文</a>
+  <a href="{{ '/lifespan/' | relative_url }}">English</a> |
+  <a href="{{ '/lifespan/ja/' | relative_url }}">日本語</a> |
+  <a href="{{ '/lifespan/ko/' | relative_url }}">한국어</a> |
+  <a href="{{ '/lifespan/zh/' | relative_url }}">简体中文</a> |
+  <a href="{{ '/lifespan/zh-TW/' | relative_url }}">繁體中文</a>
 </nav>
 
 # 隐私政策（LifeSpan）
@@ -62,7 +62,7 @@ permalink: /privacy-policy/lifespan/zh/
 
 我们可能会不时更新本隐私政策。  
 如有重大变更，我们将在本应用或 Google Play 商店页面上发布通知。  
-更新后的版本自上方所示的“生效日期”起生效。
+更新后的版本自下方所示的"生效日期"起生效。
 
 ## 七、联系方式
 
