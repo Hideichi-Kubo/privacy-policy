@@ -70,7 +70,7 @@ permalink: /privacy-policy/lifespan/ja/
 本ポリシーに関するお問い合わせは、以下の連絡先までお願いいたします。
 
 **Hideichi Kubo**  
-メールアドレス：*[お問い合わせ用メールアドレスをここに記載]*
+メールアドレス：*hideichi.apps@gmail.com*
 
 ---
 
